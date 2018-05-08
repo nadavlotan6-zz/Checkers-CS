@@ -1,0 +1,10 @@
+==========================Exercise Checking Report==========================
+Exercise No...........: 2
+First Student Details.: 311402861 - Raz Barel
+Second Student Details: 312346406 - Nadav Lotan	
+Delivery Date.........: 7 - May - 2018
+Delivered In Delay....: Yes
+Delay Reason..........: Couldnt Finish the exercise 
+Visual Studio Version.: 2017
+Comments..............: No comments
+=======================End Exercise Checking Report=========================
